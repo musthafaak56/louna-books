@@ -110,31 +110,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "I recently rented a studio at Louna Studios in Dubai for a video shoot, and it was an exceptional experience. The studio was equipped with top-notch gear, offering everything we needed for a professional production. The staff were incredibly supportive, providing expert assistance throughout the shoot. The location is convenient, with great amenities like dressing rooms and ample parking. Overall, Louna Studios is a fantastic choice for anyone looking to shoot high-quality video content in Dubai. Highly recommended!",
+      "I recently rented studio at Louna Studios in Dubai for a video shoot, and it was an exceptional experience. The studio was equipped with top-notch gear, offering everything we needed for a professional production. The staff were incredibly supportive, providing expert assistance throughout the shoot. The location is convenient, with great amenities like dressing rooms and ample parking. Overall, Louna Studios is a fantastic choice for anyone looking to shoot high-quality video content in Dubai. Highly recommended!",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "I recently rented a studio at Louna Studios in Dubai for a video shoot, and it was an exceptional experience. The studio was equipped with top-notch gear, offering everything we needed for a professional production. The staff were incredibly supportive, providing expert assistance throughout the shoot. The location is convenient, with great amenities like dressing rooms and ample parking. Overall, Louna Studios is a fantastic choice for anyone looking to shoot high-quality video content in Dubai. Highly recommended!",
+      "I recently rented studio at Louna Studios in Dubai for a video shoot, and it was an exceptional experience. The studio was equipped with top-notch gear, offering everything we needed for a professional production. The staff were incredibly supportive, providing expert assistance throughout the shoot. The location is convenient, with great amenities like dressing rooms and ample parking. Overall, Louna Studios is a fantastic choice for anyone looking to shoot high-quality video content in Dubai. Highly recommended!",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "I recently rented a studio at Louna Studios in Dubai for a video shoot, and it was an exceptional experience. The studio was equipped with top-notch gear, offering everything we needed for a professional production. The staff were incredibly supportive, providing expert assistance throughout the shoot. The location is convenient, with great amenities like dressing rooms and ample parking. Overall, Louna Studios is a fantastic choice for anyone looking to shoot high-quality video content in Dubai. Highly recommended!",
+      "I recently rented studio at Louna Studios in Dubai for a video shoot, and it was an exceptional experience. The studio was equipped with top-notch gear, offering everything we needed for a professional production. The staff were incredibly supportive, providing expert assistance throughout the shoot. The location is convenient, with great amenities like dressing rooms and ample parking. Overall, Louna Studios is a fantastic choice for anyone looking to shoot high-quality video content in Dubai. Highly recommended!",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "I recently rented a studio at Louna Studios in Dubai for a video shoot, and it was an exceptional experience. The studio was equipped with top-notch gear, offering everything we needed for a professional production. The staff were incredibly supportive, providing expert assistance throughout the shoot. The location is convenient, with great amenities like dressing rooms and ample parking. Overall, Louna Studios is a fantastic choice for anyone looking to shoot high-quality video content in Dubai. Highly recommended!",
+      "I recently rented studio at Louna Studios in Dubai for a video shoot, and it was an exceptional experience. The studio was equipped with top-notch gear, offering everything we needed for a professional production. The staff were incredibly supportive, providing expert assistance throughout the shoot. The location is convenient, with great amenities like dressing rooms and ample parking. Overall, Louna Studios is a fantastic choice for anyone looking to shoot high-quality video content in Dubai. Highly recommended!",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "I recently rented a studio at Louna Studios in Dubai for a video shoot, and it was an exceptional experience. The studio was equipped with top-notch gear, offering everything we needed for a professional production. The staff were incredibly supportive, providing expert assistance throughout the shoot. The location is convenient, with great amenities like dressing rooms and ample parking. Overall, Louna Studios is a fantastic choice for anyone looking to shoot high-quality video content in Dubai. Highly recommended!",
+      "I recently rented studio at Louna Studios in Dubai for a video shoot, and it was an exceptional experience. The studio was equipped with top-notch gear, offering everything we needed for a professional production. The staff were incredibly supportive, providing expert assistance throughout the shoot. The location is convenient, with great amenities like dressing rooms and ample parking. Overall, Louna Studios is a fantastic choice for anyone looking to shoot high-quality video content in Dubai. Highly recommended!",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
