@@ -3,6 +3,7 @@ import { FaLocationArrow } from "react-icons/fa6";
 import MagicButton from "./MagicButton";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
+import GridGlobe from "./ui/GridGlobe";
 
 const Hero = () => {
   return (
@@ -56,17 +57,20 @@ const Hero = () => {
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
-          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
+          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl z-50">
             A Media Production Company Based in Dubai
           </p>
 
-          <a href="#about">
+          <a href="#about" className="z-50">
             <MagicButton
               title="Book Now"
               icon={<FaLocationArrow />}
               position="right"
             />
           </a>
+          {/* <div className="z-0">
+            <GridGlobe />
+          </div> */}
         </div>
       </div>
     </div>
