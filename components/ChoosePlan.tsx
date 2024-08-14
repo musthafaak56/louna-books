@@ -5,7 +5,7 @@ import { FaCheckCircle } from "react-icons/fa";
 
 const ChoosePlan = () => {
   return (
-    <div className="py-20 w-full">
+    <div className="py-20 w-full" id="plans">
       <h1 className="heading">
         Our <span className="text-purple">Plans</span>
       </h1>
