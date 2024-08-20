@@ -61,7 +61,7 @@ const Hero = () => {
             A Media Production Company Based in Dubai
           </p>
 
-          <a href="#about" className="z-50">
+          <a href="https://louna-bookings.netlify.app/#/" className="z-50">
             <MagicButton
               title="Book Now"
               icon={<FaLocationArrow />}
